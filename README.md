@@ -1,2 +1,2 @@
-# Site-Down-Recovery-Plan
-The purpose of this doc is to track all critical operations, personnel contact information, and key procedures to perform in the event of a complete site disruption.
+# Site Down Recovery Plan
+This document was developed as part of a real strategy to provide technical support engineers a line by line process in the event of an entire client site downtime.The purpose of this doc is to track all critical operations, personnel contact information, and key procedures to perform in the event of a complete site disruption. All company specific information has been removed. 
